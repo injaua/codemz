@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+.navbar{
+	font-size: 1em;
+	font-weight: 600;
+}
+body{
+	 margin: 0px;
+	/*background-image: linear-gradient(to left, #ff6e7f, #bfe9ff);*/
+	/*background-image: linear-gradient(to left, #DECBA4, #3E5151);*/
+	background-image: linear-gradient(to right, #f0eff5, #7181db);
+	min-height: 75rem;
+  	padding-top: 6rem;
+	
+
+
+}
+
+.main{
+	/*background-image: linear-gradient(to right, #f0eff5, #7181db);*/
+	height: 100%;
+}
+
+.footer{
+	background-color: #0080c0;
+	color: #fff;
+}
+
+h1{
+	text-align: center;
+}
+
+.cursos01{
+	display: block;
+}
+
+img{
+	width: 300;
+	height: 300;
+}
+
+
